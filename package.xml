@@ -1,0 +1,11 @@
+<package>
+  <name>patrolbot_bringup</name>
+  <version>0.0.1</version>
+  <description>Provides parameters for the patrolbot.</description>
+  <maintainer email="efeoflus@andrew.cmu.edu">Eduardo Feo-Flushing</maintainer>
+  <license>BSD</license>
+  
+  <author email="efeoflus@andrew.cmu.edu">Eduardo Feo-Flushing</author>
+
+    <buildtool_depend>catkin</buildtool_depend>
+</package>
