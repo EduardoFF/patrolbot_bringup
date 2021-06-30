@@ -1,0 +1,6 @@
+<launch>
+
+<!-- Set the needed transforms -->
+    <node pkg="tf" type="static_transform_publisher" name="basefootprint_baselink_tf" args="0.0 0.0 0.0 0.0 0.0 0.0 base_footprint base_link 100" />
+
+</launch>
